@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>https://acmdashboard.com/dashboard</loc>
+<loc>https://acmdashboard.com/dashboard/fee-report/?id=19549</loc>
+<loc>https://acmdashboard.com/dashboard/service-requests?id=53787</loc>
+<loc>https://acmdashboard.com/dashboard/run-proposal/?proposal_type=model</loc>
+<loc>https://acmdashboard.com/dashboard/run-proposal/?proposal_type=private</loc>
+<loc>https://acmdashboard.com/dashboard/run-proposal/?proposal_type=pathfinder</loc>
+<loc>https://acmdashboard.com/simplesaml/saml2/idp/SSOService.php?spentityid=https://login.bdreporting.com</loc>
+<loc>https://acmdashboard.com/dashboard/steps-paperwork/?sp=acctopeningpaperwork</loc>
+<loc>https://acmdashboard.com/dashboard/steps-paperwork/?sp=supplementalforms</loc>
+<loc>https://acmdashboard.com/dashboard/document-submission/</loc>
+<loc>https://acmdashboard.com/dashboard/outstanding-items/?p=sma</loc>
+<loc>https://acmdashboard.com/dashboard/outstanding-items/?p=pathfinder</loc>
+<loc>https://acmdashboard.com/dashboard/paperwork/?pw=acctopeningpaperwork</loc>
+<loc>https://acmdashboard.com/dashboard/paperwork/?pw=supplementalforms</loc>
+<loc>https://acmdashboard.com/dashboard/pathfinder/</loc>
+<loc>https://acmdashboard.com/dashboard/uma-calculator/</loc>
+<loc>https://acmdashboard.com/dashboard/quarterly-documents/?docs=portfolio-material</loc>
+<loc>https://acmdashboard.com/dashboard/quarterly-documents/?docs=strategy-brochures</loc>
+<loc>https://acmdashboard.com/dashboard/quarterly-documents/?docs=general-marketing</loc>
+</url>
+</urlset>
